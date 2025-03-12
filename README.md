@@ -69,7 +69,7 @@ Con Rasa, estamos creando un sistema que aprende y mejora continuamente, adaptá
 Si deseas contactarme, no dudes en enviarme un mensaje:
 
 - 📧 Email: [luisatzelmb@gmail.com](mailto:luisatzelmb@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
+- 💼 LinkedIn: [www.linkedin.com/in/luis-atzel-montaño-briz-4a24772ab](www.linkedin.com/in/luis-atzel-montaño-briz-4a24772ab)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="20"> Faceboock: [https://www.facebook.com/luisatzel.montanobriz](https://www.facebook.com/luisatzel.montanobriz)
 
 <p align="center">
