@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="URL_DEL_BANNER" alt="Banner" style="width: 100%;">
+  <img src="https://github.com/user-attachments/assets/e12be503-dd7b-4509-83ae-c82f128bec38" alt="Banner" style="width: 100%;">
 </div>
-
 <h1 align="center">¡Hola, soy Luis! 👋</h1>
 
 <p align="center">
