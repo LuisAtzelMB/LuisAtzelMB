@@ -1,35 +1,36 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/e12be503-dd7b-4509-83ae-c82f128bec38" alt="Banner" style="width: 100%;">
 </div>
-<h1 align="center">¡Hola, soy Luis! 👋</h1>
+
+<h1 align="center">Hello, I'm Luis! 👋</h1>
 
 <p align="center">
-  <strong>Desarrollador de Software | Apasionado por la tecnología | Amante de nuevas tecnologías</strong>
+  <strong>Software Developer | Passionate about technology | Lover of new technologies</strong>
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/luis-atzel-montaño-briz-4a24772ab">LinkedIn</a> •
-  <a href="https://www.facebook.com/luisatzel.montanobriz">Contacto</a> •
+  <a href="https://www.linkedin.com/in/luis-atzel-montaño-briz-4a24772ab">LinkedIn</a> •
+  <a href="https://www.facebook.com/luisatzel.montanobriz">Contact</a> •
   <a href="mailto:luisatzelmb@gmail.com">Email</a>
 </p>
 
 ---
 
-## Sobre mí 👨‍💻
+## About Me 👨‍💻
 
-¡Hola! Soy Luis, un desarrollador de software con experiencia en Javascript, Python, PHP y otras tecnologías del desarrollo web. Me encanta resolver problemas complejos y crear soluciones innovadoras que impacten positivamente en la vida de las personas.
+Hello! I'm Luis, a software developer with experience in JavaScript, Python, PHP, and other web development technologies. I love solving complex problems and creating innovative solutions that positively impact people's lives.
 
-- 🔭 Actualmente estoy en busca de un trabajo como desarrollador web.
-- 🌱 Estoy aprendiendo tecnologías dedicadas para el desarrollo web e inteligencia artificial.
-- 👯 Busco colaborar en proyectos relacionados con el desarrollo web.
-- 💬 Pregúntame sobre lo que desees, me encantaria ayudarte.
-- ⚡ Dato curioso: Me gustan las peliculas antiguas.
+- 🔭 I’m currently looking for a job as a web developer.
+- 🌱 I’m learning technologies dedicated to web development and artificial intelligence.
+- 👯 I’m looking to collaborate on web development-related projects.
+- 💬 Ask me anything, I'd love to help you.
+- ⚡ Fun fact: I enjoy old movies.
 
 ---
 
-## Tecnologías y Herramientas 🛠️
+## Technologies and Tools 🛠️
 
-Aquí están algunas de las tecnologías y herramientas con las que trabajo:
+Here are some of the technologies and tools I work with:
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -44,34 +45,33 @@ Aquí están algunas de las tecnologías y herramientas con las que trabajo:
 
 ---
 
-## Proyectos Destacados 🚀
+## Featured Projects 🚀
 
-Aquí tienes algunos de los proyectos en los que he trabajado:
+Here are some of the projects I've worked on:
 
-- **Chatbot creado con Rasa (https://github.com/tu-usuario/repositorio-1)**: Estamos construyendo un asistente virtual inteligente y conversacional con Rasa, diseñado para revolucionar la experiencia de los clientes de in sitio web que se preparan para el examen EGEL de egreso de la licenciatura. Este chatbot no solo responde preguntas de manera rápida y precisa, sino que también guía a los usuarios a través de información clave sobre cursos, metodologías, costos, horarios y habilidades que adquirirán. Imagina tener un mentor disponible 24/7, listo para resolver tus dudas, darte consejos personalizados y motivarte en cada paso del camino. 🚀
+- **Chatbot built with Rasa (https://github.com/tu-usuario/repositorio-1)**: We are building an intelligent conversational virtual assistant with Rasa, designed to revolutionize the customer experience for a website preparing students for the EGEL graduation exam. This chatbot not only answers questions quickly and accurately but also guides users through key information about courses, methodologies, costs, schedules, and skills they will acquire. Imagine having a mentor available 24/7, ready to resolve your doubts, provide personalized advice, and motivate you every step of the way. 🚀
 
-Con Rasa, estamos creando un sistema que aprende y mejora continuamente, adaptándose a las necesidades de los usuarios. Desde detalles sobre los instructores hasta testimonios de éxito, este chatbot es tu compañero ideal para maximizar tu preparación y asegurar tu éxito en el examen EGEL. ¡Estamos transformando la educación en línea en una experiencia interactiva, dinámica y accesible para todos!" 😊
-
+With Rasa, we are creating a system that continuously learns and improves, adapting to users' needs. From details about instructors to success stories, this chatbot is your ideal companion to maximize your preparation and ensure your success in the EGEL exam. We are transforming online education into an interactive, dynamic, and accessible experience for everyone! 😊
 
 ---
 
-## Estadísticas de GitHub 📊
+## GitHub Statistics 📊
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisAtzelMB&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAtzelMB&layout=compact&theme=radical" alt="Lenguajes más usados">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisAtzelMB&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAtzelMB&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ---
 
-## Contacto 📬
+## Contact 📬
 
-Si deseas contactarme, no dudes en enviarme un mensaje:
+If you'd like to get in touch, feel free to send me a message:
 
 - 📧 Email: [luisatzelmb@gmail.com](mailto:luisatzelmb@gmail.com)
 - 💼 LinkedIn: [www.linkedin.com/in/luis-atzel-montaño-briz-4a24772ab](www.linkedin.com/in/luis-atzel-montaño-briz-4a24772ab)
-- <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="20"> Faceboock: [https://www.facebook.com/luisatzel.montanobriz](https://www.facebook.com/luisatzel.montanobriz)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="20"> Facebook: [https://www.facebook.com/luisatzel.montanobriz](https://www.facebook.com/luisatzel.montanobriz)
 
 <p align="center">
-  ¡Gracias por visitar mi perfil! 😄
+  Thanks for visiting my profile! 😄
 </p>
