@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/luis-atzel-montaño-briz-4a24772ab">LinkedIn</a> •
-  <a href="https://www.facebook.com/luisatzel.montanobriz">Contact</a> •
+  <a href="https://www.facebook.com/luisatzel.montanobriz">Facebook</a> •
   <a href="mailto:luisatzelmb@gmail.com">Email</a>
 </p>
 
