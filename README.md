@@ -69,7 +69,7 @@ With Rasa, we are creating a system that continuously learns and improves, adapt
 If you'd like to get in touch, feel free to send me a message:
 
 - 📧 Email: [luisatzelmb@gmail.com](mailto:luisatzelmb@gmail.com)
-- 💼 LinkedIn: [www.linkedin.com/in/luis-atzel-montaño-briz-4a24772ab](www.linkedin.com/in/luis-atzel-montaño-briz-4a24772ab)
+- 💼 LinkedIn: [https://www.linkedin.com/in/luis-atzel-montaño-briz-4a24772ab](https://www.linkedin.com/in/luis-atzel-montaño-briz-4a24772ab)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="20"> Facebook: [https://www.facebook.com/luisatzel.montanobriz](https://www.facebook.com/luisatzel.montanobriz)
 
 <p align="center">
